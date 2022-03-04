@@ -1,0 +1,16 @@
+canvas{
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+h1{
+  text-decoration: underline;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 10px solid black;
+  border-radius: 20%;
+  text-align: center;
+}
